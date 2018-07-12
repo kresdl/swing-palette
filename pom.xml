@@ -11,19 +11,25 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
     <dependencies>
         <dependency>
-            <groupId>com.kresdl.geometry</groupId>
+            <groupId>com.github.kresdl</groupId>
             <artifactId>geometry</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>  
         <dependency>
-            <groupId>com.kresdl.utilities</groupId>
-            <artifactId>utilities</artifactId>
+            <groupId>com.github.kresdl</groupId>
+            <artifactId>java-utilities</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>  
         <dependency>
-            <groupId>com.kresdl.xpanel</groupId>
+            <groupId>com.github.kresdl</groupId>
             <artifactId>xpanel</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
