@@ -21,17 +21,17 @@
         <dependency>
             <groupId>com.github.kresdl</groupId>
             <artifactId>geometry</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>master-SNAPSHOT</version>
         </dependency>  
         <dependency>
             <groupId>com.github.kresdl</groupId>
             <artifactId>java-utilities</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>master-SNAPSHOT</version>
         </dependency>  
         <dependency>
             <groupId>com.github.kresdl</groupId>
             <artifactId>xpanel</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>master-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
